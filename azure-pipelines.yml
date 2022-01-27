@@ -3,8 +3,10 @@
 # Add steps that build, run tests, deploy, and more:
 # https://aka.ms/yaml
 
+# commented main to avoid unnecessary for sample project runs
 trigger:
-- main
+  - some
+  # - main
 
 pool:
   name: Azure Pipelines
