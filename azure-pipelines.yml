@@ -15,7 +15,7 @@ steps:
   inputs:
     deploymentScope: 'Resource Group'
     azureResourceManagerConnection: 'AzureRMPipeline-conn'
-    subscriptionId: 'bd204c2f-7960-4217-85d2-3431d0e5d58e'
+    subscriptionId: '805e4ea6-018f-42e9-b0a5-48d6efcec787'
     action: 'Create Or Update Resource Group'
     resourceGroupName: 'rg-AzureRMPipeline'
     location: 'West Europe'
