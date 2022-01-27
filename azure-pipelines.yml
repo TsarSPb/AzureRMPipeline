@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: selfhosted
+  name: Azure Pipelines
   vmImage: ubuntu-latest
 
 steps:
